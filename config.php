@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = 'localhost';
-$dbuser = 'ultimate';
-$dbpass = 'ultimate';
-$dbname = 'ultimate';
+$dbhost = '192.168.0.100';
+$dbuser = 'petcoinc_Frist';
+$dbpass = 'unTr6zLryz37CJZCpWd9';
+$dbname = 'petcoinc_Frist';
 $dbtable_prefix = ''; // default empty
 $dbtable_shortlink_pool_prefix = ''; // default empty
 $display_errors = true; // change to false once installed and tested
